@@ -1,0 +1,17 @@
+# Project: Python Lunch Purchase Database Exercise
+# Steps:
+# Design Database (document on Lucidchart - Python Database Exercise - Lunch Purchase)
+# Database - SQL Lite (https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
+# Create CSV files using Mockaroo
+# - Students
+# - Parents
+# - Trans (Transaction is a SQL keyword)
+# - Relationship
+# - TransactionType
+
+# Write Database create program -- DONE
+# Write Database load program
+# Define reports
+# Write report menu program
+# Write report programs
+

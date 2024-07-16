@@ -1,0 +1,5 @@
+TRANSTYPE,TRANSDESC
+1,Deposit
+2,Purchase
+3,Refund
+4,Free
